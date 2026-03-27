@@ -1,0 +1,9 @@
+===========================================
+       MY OPEN SOURCE MANIFESTO
+===========================================
+On 27 March 2026, I, Harshita Yadav, declare my commitment to FOSS.
+
+To me, freedom in software means Access. Every day, I rely on python 
+to learn and grow. In the spirit of community, I pledge to build 
+Websites and share it freely with the world.
+===========================================
