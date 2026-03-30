@@ -63,12 +63,30 @@ chmod +x system_identity.sh package_inspector.sh disk_auditor.sh log_analyzer.sh
    ./log_analyzer.sh /var/log/apache2/error.log
    ./manifesto_gen.sh
    ```
-5 . Requirements:
--Linux Environment (Ubuntu 24.04/WSL2 recommended)
--Apache HTTP Server installed (sudo apt install apache2)
--Basic command-line and shell scripting knowledge
+   ## Requirements :
+    - Linux Environment (Ubuntu 24.04/WSL2 recommended)
+    - Apache HTTP Server installed (sudo apt install apache2)
+    - Basic command-line and shell scripting knowledge
+   
+## Repository
+  ```bash
+oss-audit-24BCE11003/
+├── scripts/
+│   ├── system_identity.sh
+│   ├── package_inspector.sh
+│   ├── disk_auditor.sh
+│   ├── log_analyzer.sh
+│   └── manifesto_gen.sh
+├── docs/
+│   └── OSS_Audit_Report_24BCE11003.pdf
+└── README.md
+```
+## Conclusion 
+This project provides both theoretical and practical knowledge of open-source software using the Apache HTTP Server as a case study. It demonstrates how community-driven development has built the foundations of the modern web through transparency and collective improvement.
 
-
+## Author Name 
+-  Name : Harshita Anil Yadav
+-  Registration number : 24BCE11003
 
 
 
